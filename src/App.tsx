@@ -13,7 +13,7 @@ function App() {
       <header className="pt-10 flex justify-center">
         <img
           className="w-52 h-auto"
-          src="../public/logo.svg"
+          src="../src/assets/logo.svg"
           alt="logo pizzeria d'angela"
         />
       </header>
